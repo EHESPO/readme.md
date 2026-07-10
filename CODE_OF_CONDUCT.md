@@ -1,151 +1,229 @@
 # Code of Conduct
 
-## EHEPS International Organization
+Welcome to the **EHEPS International Organization** community.
 
-**Version 1.0**  
-**Last Updated:** July 2026
+- 🌐 Website: https://eheps.com
+- 🌐 Nonprofit Portal: https://eheps.org
 
----
+EHEPS International Organization is committed to providing a welcoming, inclusive, safe, and respectful environment for everyone participating in our projects, research, humanitarian initiatives, educational programs, and open-source software.
 
-## Our Commitment
-
-EHEPS International Organization is committed to fostering an open, welcoming, diverse, inclusive, and respectful environment for everyone.
-
-We welcome participation regardless of age, disability, ethnicity, gender identity or expression, level of experience, nationality, race, religion, sexual orientation, socioeconomic status, or technical background.
-
-Our goal is to build a safe community where people can collaborate on education, humanitarian assistance, environmental protection, artificial intelligence, scientific research, and open-source innovation.
+This Code of Conduct applies to all EHEPS repositories, websites, online services, events, and community spaces.
 
 ---
 
-## Expected Behavior
+# Our Commitment
 
-Members of our community are expected to:
+We pledge to make participation in our community a harassment-free experience for everyone, regardless of:
+
+- Age
+- Disability
+- Ethnicity
+- Gender identity or expression
+- Level of experience
+- Nationality
+- Personal appearance
+- Race
+- Religion
+- Sexual orientation
+- Technical background
+- Geographic location
+- Socioeconomic status
+
+We value diversity, collaboration, integrity, transparency, innovation, and respect.
+
+---
+
+# Our Mission
+
+EHEPS International Organization advances:
+
+- Education
+- Humanitarian Assistance
+- Environmental Protection
+- Artificial Intelligence for Social Good
+- Scientific Research
+- Innovation
+- Sustainable Development
+- Digital Transformation
+- Open Source Collaboration
+
+---
+
+# Expected Behavior
+
+Community members are expected to:
 
 - Be respectful and professional.
-- Treat everyone with kindness and dignity.
-- Welcome new contributors.
-- Share knowledge openly.
+- Be welcoming and inclusive.
+- Communicate constructively.
+- Respect different opinions.
+- Help newcomers.
 - Accept constructive feedback.
-- Focus on collaboration and problem solving.
-- Respect different viewpoints and experiences.
-- Use inclusive language.
-- Credit the work of others.
-- Follow all applicable laws and regulations.
-- Protect confidential and personal information.
-- Report security vulnerabilities responsibly.
-- Support ethical and responsible use of artificial intelligence.
+- Protect confidential information.
+- Respect copyrights and licenses.
+- Follow responsible security practices.
+- Promote ethical and responsible Artificial Intelligence.
+- Support accessibility for everyone.
 
 ---
 
-## Unacceptable Behavior
+# Unacceptable Behavior
 
-The following behavior is not tolerated:
+The following behavior is unacceptable:
 
-- Harassment or discrimination of any kind.
-- Hate speech or abusive language.
-- Personal attacks or intimidation.
-- Sexual harassment or unwanted attention.
-- Threats or violent behavior.
-- Publishing private information without permission.
-- Fraud, deception, or impersonation.
-- Spam or malicious content.
-- Distribution of malware or phishing attempts.
-- Intellectual property infringement.
-- Any illegal activity.
-- Deliberate disruption of projects or community discussions.
-
----
-
-## Artificial Intelligence Principles
-
-EHEPS encourages responsible development and use of AI.
-
-Community members should:
-
-- Develop AI that benefits society.
-- Protect privacy and sensitive information.
-- Reduce bias where possible.
-- Promote transparency.
-- Respect human rights.
-- Avoid harmful or deceptive AI applications.
-- Follow applicable legal and ethical standards.
+- Harassment
+- Discrimination
+- Hate speech
+- Personal attacks
+- Threats or intimidation
+- Sexual harassment
+- Doxxing or sharing private information
+- Bullying
+- Fraud or impersonation
+- Malware distribution
+- Phishing
+- Spam
+- Intellectual property violations
+- Illegal activities
+- Disruptive or abusive behavior
 
 ---
 
-## Open Source Collaboration
+# Artificial Intelligence Principles
 
-When contributing to EHEPS projects, contributors should:
+EHEPS promotes responsible AI that is:
 
-- Submit original work or work they have permission to share.
-- Follow project contribution guidelines.
-- Write clear documentation.
-- Respect project maintainers' decisions.
-- Review code constructively.
-- Help improve software quality and security.
+- Safe
+- Fair
+- Transparent
+- Secure
+- Privacy-preserving
+- Human-centered
+- Beneficial to society
 
----
-
-## Reporting Issues
-
-If you experience or witness behavior that violates this Code of Conduct, please report it to:
-
-**Email:** conduct@eheps.com
-
-or
-
-**General Contact:** info@eheps.com
-
-Reports will be reviewed promptly and handled as confidentially as possible.
+Contributors should avoid creating or distributing AI systems intended to cause harm or violate applicable laws.
 
 ---
 
-## Enforcement
+# Security
 
-Project maintainers and organization administrators are responsible for enforcing this Code of Conduct.
+If you discover a security vulnerability, **do not** disclose it publicly.
 
-Possible actions include:
+Instead, report it privately to:
 
-- Warning
+- security@eheps.com
+- admin@eheps.com
+
+---
+
+# Reporting Violations
+
+If you experience or witness behavior that violates this Code of Conduct, please contact us.
+
+## Primary Contacts
+
+- admin@eheps.com
+- executive@eheps.com
+- info@eheps.com
+
+You may also contact any official member using an email address ending with:
+
+- @eheps.com
+- @eheps.org
+
+All reports will be reviewed confidentially whenever possible.
+
+---
+
+# Enforcement
+
+Project maintainers and organization administrators may take appropriate action, including:
+
+- Private warning
+- Public warning
 - Temporary suspension
-- Permanent removal from community spaces
-- Removal of contributions
-- Restriction of repository access
-- Reporting illegal activity to appropriate authorities when necessary
-
-Enforcement decisions are made to protect the safety and integrity of the community.
+- Permanent removal
+- Restricting repository access
+- Removing inappropriate content
+- Reporting unlawful activity to appropriate authorities
 
 ---
 
-## Scope
+# Scope
 
 This Code of Conduct applies to:
 
 - GitHub repositories
-- Project discussions
-- Issue trackers
-- Pull requests
+- GitHub Issues
+- Pull Requests
+- Discussions
+- Documentation
+- Websites
+- Research projects
+- Educational programs
+- Humanitarian projects
+- Conferences
+- Workshops
+- Meetings
+- Social media
 - Community forums
-- Social media representing EHEPS
-- Events, workshops, and conferences
-- Online meetings
-- Official communication channels
+- All official EHEPS communication channels
 
 ---
 
-## Attribution
+# Open Source Community Standards
 
-This Code of Conduct is inspired by established open-source community standards, including the Contributor Covenant and industry best practices, and has been adapted for EHEPS International Organization.
+EHEPS supports internationally recognized open-source community practices.
+
+Additional resources:
+
+- Contributor Covenant  
+  https://www.contributor-covenant.org/
+
+- GitHub Community Standards  
+  https://docs.github.com/en/communities
+
+- GitHub Code of Conduct Documentation  
+  https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project
+
+- Google's Open Source Community Guidelines  
+  https://opensource.google/documentation/reference/community-guidelines
+
+- Google's Open Source Documentation  
+  https://opensource.google/
+
+- Google Responsible AI  
+  https://ai.google/responsibility/
+
+- Google Open Source Programs Office (OSPO)  
+  https://opensource.google/
 
 ---
 
-## Contact
+# Contact
 
-**Website:** https://eheps.com
+**Official Website**
 
-**Nonprofit:** https://eheps.org
+https://eheps.com
 
-**Email:** info@eheps.com
+**Nonprofit Website**
+
+https://eheps.org
+
+**General Email**
+
+info@eheps.com
+
+**Administration**
+
+admin@eheps.com
+
+**Executive Office**
+
+executive@eheps.com
 
 ---
 
-© 2026 EHEPS International Organization. All rights reserved.
+© 2026 EHEPS International Organization.
+
+All Rights Reserved.
